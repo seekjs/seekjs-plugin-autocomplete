@@ -1,0 +1,19 @@
+{
+  "name": "seekjs-plugin-autocomplete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cmd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seekjs-framework/seekjs-plugin-autocomplete.git"
+  },
+  "author": "Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seekjs-framework/seekjs-plugin-autocomplete/issues"
+  },
+  "homepage": "https://github.com/seekjs-framework/seekjs-plugin-autocomplete#readme"
+}
