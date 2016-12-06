@@ -1,3 +1,7 @@
-<div class="sk-autoComplete">
-    <input />
+<div class="sk-auto-complete">
+    <ul>
+        {foreach src=this.matchData}
+        <li data-event="addToInput:{i}">{this.getLine(item)}</li>
+        {/foreach}
+    </ul>
 </div>

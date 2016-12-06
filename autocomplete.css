@@ -1,0 +1,14 @@
+.sk-auto-complete{
+    border: 1px dashed #0a102a;
+    width: 90%;
+}
+
+.sk-auto-complete ul{
+    padding: 20px;
+}
+
+.sk-auto-complete li{
+    height: 25px;
+    line-height: 25px;
+    cursor: pointer;
+}
