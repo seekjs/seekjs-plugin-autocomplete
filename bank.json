@@ -1,0 +1,498 @@
+[
+    {
+        "sn": "0001",
+        "name": "BANCO DO BRASIL SA"
+    },
+    {
+        "sn": "0003",
+        "name": "BANCO DA AMAZONIA SA"
+    },
+    {
+        "sn": "0004",
+        "name": "BANCO DO NORDESTE DO BRASIL SA"
+    },
+    {
+        "sn": "0019",
+        "name": "AZTECA BANCO AZTECA DO BRASIL"
+    },
+    {
+        "sn": "0021",
+        "name": "BANESTES BANCO DO ESTADO DO ESPIRITO SAN"
+    },
+    {
+        "sn": "0024",
+        "name": "BANCO BANDEPE SA"
+    },
+    {
+        "sn": "0025",
+        "name": "ALFABANCO ALFA SA"
+    },
+    {
+        "sn": "0029",
+        "name": "BANCO BANERJ SA"
+    },
+    {
+        "sn": "0033",
+        "name": "BANCO SANTANDER BRASIL SA"
+    },
+    {
+        "sn": "0037",
+        "name": "BANPARA  BANCO DO ESTADO DO PARA SA"
+    },
+    {
+        "sn": "0040",
+        "name": "CARGILL BANCO CARGILL SA"
+    },
+    {
+        "sn": "0041",
+        "name": "BANRISUL  BANCO DO ESTADO RGS"
+    },
+    {
+        "sn": "0044",
+        "name": "BVA BANCO BVA SA"
+    },
+    {
+        "sn": "0047",
+        "name": "BANESE  BANCO DO ESTADO DE SERGIPE SA"
+    },
+    {
+        "sn": "0062",
+        "name": "HIPERCARD BANCO MULTIPLO SA"
+    },
+    {
+        "sn": "0063",
+        "name": "IBI BANCO IBI SA BANCO MULTIPLO"
+    },
+    {
+        "sn": "0065",
+        "name": "BRACCE BANCO BRACCE SA"
+    },
+    {
+        "sn": "0069",
+        "name": "BPN BRASIL BANCO MULTIPLO SA"
+    },
+    {
+        "sn": "0070",
+        "name": "BRB  BANCO DO ESTADO DE BRASILIA SA"
+    },
+    {
+        "sn": "0074",
+        "name": "J SAFRA BANCO J SAFRA SA"
+    },
+    {
+        "sn": "0075",
+        "name": "CR2 BANCO CR2 SA"
+    },
+    {
+        "sn": "0077",
+        "name": "INTERMEDIUM BANCO INTERMEDIUM SA"
+    },
+    {
+        "sn": "0078",
+        "name": "BES INVESTIMENTO DO BRASIL"
+    },
+    {
+        "sn": "0079",
+        "name": "JBS BANCO JBS SA"
+    },
+    {
+        "sn": "0081",
+        "name": "CONCORDIA BANCO SA"
+    },
+    {
+        "sn": "0083",
+        "name": "CHINA BRASIL BANCO CHINA BRASIL"
+    },
+    {
+        "sn": "0084",
+        "name": "CC UNICRED NORTE DO PARANA"
+    },
+    {
+        "sn": "0085",
+        "name": "COOP CENTRAL DE CREDITO URBANO CECRED"
+    },
+    {
+        "sn": "0087",
+        "name": "CC UNICRED CENTRAL SANTA CATARINA"
+    },
+    {
+        "sn": "0089",
+        "name": "CC REGIAO DA MOGIANA COOP CREDITO RURAL"
+    },
+    {
+        "sn": "0090",
+        "name": "CC UNICRED CENTRAL SP"
+    },
+    {
+        "sn": "0091",
+        "name": "CC UNICRED CENTRAL RS"
+    },
+    {
+        "sn": "0096",
+        "name": "BANCO BMF  DE SERV DE LIQ E CUSTODIA LTD"
+    },
+    {
+        "sn": "0097",
+        "name": "CC CENTRALCREDI"
+    },
+    {
+        "sn": "0098",
+        "name": "CC CREDICOROL COOP DE CREDITO RURAL"
+    },
+    {
+        "sn": "0099",
+        "name": "CC UNICRED CENTRAL PR MS"
+    },
+    {
+        "sn": "0104",
+        "name": "CEF CAIXA ECONOMICA FEDERAL"
+    },
+    {
+        "sn": "0107",
+        "name": "BBM  BANCO BBM SA"
+    },
+    {
+        "sn": "0112",
+        "name": "CC UNICRED BRASIL CENTRAL"
+    },
+    {
+        "sn": "0136",
+        "name": "UNICRED RIO DE JANEIRO"
+    },
+    {
+        "sn": "0151",
+        "name": "NOSSA CAIXA NOSSA CAIXA BANCO"
+    },
+    {
+        "sn": "0204",
+        "name": "INTERAMEX  BANCO INTER AMERICA EXPRESS"
+    },
+    {
+        "sn": "0208",
+        "name": "BGT PACTUAL BANCO BGT PACTUAL SA"
+    },
+    {
+        "sn": "0212",
+        "name": "MATONE SA  BANCO MATONE SA"
+    },
+    {
+        "sn": "0213",
+        "name": "ARBI  BANCO ARBI SA"
+    },
+    {
+        "sn": "0214",
+        "name": "DIBENS  BANCO DIBENS SA"
+    },
+    {
+        "sn": "0217",
+        "name": "BANCO JOHN DEERE SA"
+    },
+    {
+        "sn": "0218",
+        "name": "BONSUCESSO  BANCO BONSUCESSO SA"
+    },
+    {
+        "sn": "0222",
+        "name": "CALYON BRASIL BANCO CREDIT AGRIC BRASIL"
+    },
+    {
+        "sn": "0224",
+        "name": "FIBRA  BANCO FIBRA SA"
+    },
+    {
+        "sn": "0225",
+        "name": "BRASCAN  BANCO BRASCAN SA"
+    },
+    {
+        "sn": "0233",
+        "name": "GE  CAPITAL   BANCO GE CAPITAL SA"
+    },
+    {
+        "sn": "0241",
+        "name": "CLASSICO   BANCO CLASSICO SA"
+    },
+    {
+        "sn": "0243",
+        "name": "STOCK   BANCO STOCK SA"
+    },
+    {
+        "sn": "0246",
+        "name": "ABC BRASIL   BANCO ABC BRASIL SA"
+    },
+    {
+        "sn": "0248",
+        "name": "BOAVISTA INTERATLANTICO BANCO BOAVISTA"
+    },
+    {
+        "sn": "0249",
+        "name": "INVESTICRED BANCO INVESTICRED UNIBANCO"
+    },
+    {
+        "sn": "0250",
+        "name": "BANCO SCHAHIN SA"
+    },
+    {
+        "sn": "0254",
+        "name": "PARANA   PARANA BANCO SA"
+    },
+    {
+        "sn": "0263",
+        "name": "CACIQUE  BANCO CACIQUE"
+    },
+    {
+        "sn": "0265",
+        "name": "FATOR   BANCO FATOR SA"
+    },
+    {
+        "sn": "0266",
+        "name": "BANCO CEDULA  SA"
+    },
+    {
+        "sn": "0300",
+        "name": "NACION ARGENTINA BANCO DE LA NACION ARG"
+    },
+    {
+        "sn": "0318",
+        "name": "BMG   BANCO BMG SA"
+    },
+    {
+        "sn": "0320",
+        "name": "INDL E COML BANCO INDUSTRIAL E COMERCIAL"
+    },
+    {
+        "sn": "0341",
+        "name": "ITAU UNIBANCO SA"
+    },
+    {
+        "sn": "0366",
+        "name": "SOCIETE GENERALE BANCO SOCIETE GENERALE"
+    },
+    {
+        "sn": "0370",
+        "name": "WESTLB BANCO WESTLB DO BRASIL SA"
+    },
+    {
+        "sn": "0376",
+        "name": "JP MORGAN BANCO JP MORGAN SA"
+    },
+    {
+        "sn": "0389",
+        "name": "MERCANTIL DO BRASIL BANCO MERCANTIL BR"
+    },
+    {
+        "sn": "0399",
+        "name": "HSBC BANK BRASIL SA BANCO MULTIPLO"
+    },
+    {
+        "sn": "0412",
+        "name": "CAPITAL BANCO CAPITAL SA"
+    },
+    {
+        "sn": "0422",
+        "name": "SAFRA BANCO SAFRA SA"
+    },
+    {
+        "sn": "0453",
+        "name": "RURAL BANCO RURAL SA"
+    },
+    {
+        "sn": "0456",
+        "name": "TOKYOMITSUBISHI  BANCO DE TOKIO MITSUBI"
+    },
+    {
+        "sn": "0464",
+        "name": "SUMITOMO MITSUI BANCO SUMITOMO MITSUI BR"
+    },
+    {
+        "sn": "0473",
+        "name": "BANCO CAIXA GERAL BRASIL SA"
+    },
+    {
+        "sn": "0479",
+        "name": "BANCO ITAUBANK SA"
+    },
+    {
+        "sn": "0487",
+        "name": "DEUTSCHE  DEUTSCHE BANK SA BCO ALEMAO"
+    },
+    {
+        "sn": "0488",
+        "name": "JP MORGAN CHASE BANK"
+    },
+    {
+        "sn": "0492",
+        "name": "ING BANK NV"
+    },
+    {
+        "sn": "0494",
+        "name": "LA REPUBLICA  BCO DE LA REP OR DEL URU"
+    },
+    {
+        "sn": "0495",
+        "name": "PROVINCIA B AIRES BANCO DE LA PROVINCIA"
+    },
+    {
+        "sn": "0505",
+        "name": "CREDIT SUISSE BANCO CREDIT SUISSE BR"
+    },
+    {
+        "sn": "0600",
+        "name": "BANCO LUSO BRASILEIRO"
+    },
+    {
+        "sn": "0604",
+        "name": "INDUSTRIAL  BANCO INDUSTRIAL DO BRASIL"
+    },
+    {
+        "sn": "0610",
+        "name": "BVR  BANCO VR SA"
+    },
+    {
+        "sn": "0611",
+        "name": "PAULISTA  BANCO PAULISTA SA"
+    },
+    {
+        "sn": "0612",
+        "name": "GUANABARA   BANCO GUANABARA"
+    },
+    {
+        "sn": "0613",
+        "name": "PECUNIA  BANCO PECUNIA SA"
+    },
+    {
+        "sn": "0623",
+        "name": "PANAMERICANO  BANCO PANAMERICANO"
+    },
+    {
+        "sn": "0626",
+        "name": "FICSA   BANCO FICSA SA"
+    },
+    {
+        "sn": "0630",
+        "name": "INTERCAP  BANCO INTERCAP"
+    },
+    {
+        "sn": "0633",
+        "name": "RENDIMENTO  BANCO RENDIMENTO"
+    },
+    {
+        "sn": "0634",
+        "name": "TRIANGULO  BANCO TRIANGULO"
+    },
+    {
+        "sn": "0637",
+        "name": "SOFISA  BANCO SOFISA"
+    },
+    {
+        "sn": "0638",
+        "name": "PROSPER  BANCO PROSPER"
+    },
+    {
+        "sn": "0641",
+        "name": "BANCO ALVORADA SA"
+    },
+    {
+        "sn": "0643",
+        "name": "PINE  BANCO PINE SA"
+    },
+    {
+        "sn": "0653",
+        "name": "INDUSVAL BANCO INDUSVAL SA"
+    },
+    {
+        "sn": "0654",
+        "name": "RENNER  BANCO A J RENNER SA"
+    },
+    {
+        "sn": "0655",
+        "name": "VOTORANTIM  BANCO VOTORANTIM SA"
+    },
+    {
+        "sn": "0707",
+        "name": "DAYCOVAL  BANCO DAYCOVAL"
+    },
+    {
+        "sn": "0719",
+        "name": "BANIF BCO INTERNACIONAL DO FUNCHAL BR"
+    },
+    {
+        "sn": "0721",
+        "name": "CREDIBEL   BANCO CREDIBEL SA"
+    },
+    {
+        "sn": "0735",
+        "name": "POTTENCIAL   BANCO POTTENCIAL"
+    },
+    {
+        "sn": "0738",
+        "name": "MORADA  BANCO MORADA SA"
+    },
+    {
+        "sn": "0739",
+        "name": "BGN   BANCO BGN SA"
+    },
+    {
+        "sn": "0740",
+        "name": "BARCLAYS BANCO BARCLAYS SA"
+    },
+    {
+        "sn": "0741",
+        "name": "RIBEIRAO PRETO  BANCO RIBEIRAO PRETO"
+    },
+    {
+        "sn": "0743",
+        "name": "SEMEAR BANCO SEMEAR SA"
+    },
+    {
+        "sn": "0745",
+        "name": "CITIBANK SA  BANCO CITIBANK"
+    },
+    {
+        "sn": "0746",
+        "name": "MODAL  BANCO MODAL"
+    },
+    {
+        "sn": "0747",
+        "name": "RABOBANK BANCO RABOBANK INTERNATIONAL BR"
+    },
+    {
+        "sn": "0748",
+        "name": "SICREDI    BANCO COOPERATIVO SICREDI"
+    },
+    {
+        "sn": "0749",
+        "name": "SIMPLES BANCO SIMPLES SA"
+    },
+    {
+        "sn": "0751",
+        "name": "DRESDNER BANK BRASIL SA BANCO MULTIPLO"
+    },
+    {
+        "sn": "0752",
+        "name": "BNP PARIBAS BANCO BNP PARIBAS BRASIL SA"
+    },
+    {
+        "sn": "0753",
+        "name": "NBC BANK BRASIL SA"
+    },
+    {
+        "sn": "0755",
+        "name": "MERRILL LYNCH   BANCO MERRILL LYNCH SA"
+    },
+    {
+        "sn": "0756",
+        "name": "BANCOOB   BANCO COOPERATIVO DO BRASIL SA"
+    },
+    {
+        "sn": "0757",
+        "name": "KEB    BANCO KEB DO BRASIL SA"
+    },
+    {
+        "sn": "0996",
+        "name": "FEBRABAN"
+    },
+    {
+        "sn": "0999",
+        "name": "STV"
+    }
+]
